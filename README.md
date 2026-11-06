@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👽 About Me:
 Hey I'm Karya! A B.Tech Cyber Security and Forensic Engineering student, currently building a foundation in cybersecurity, programming, and various coding languages. Interested in exploring emerging technologies, developing technical skills, and gaining practical experience through hands on projects and continuous learning.
 
 
